@@ -1,5 +1,5 @@
 // 02_산수 문제 자동 출제
-/*
+
 #include<iostream>
 #include<stdlib.h>
 
@@ -14,4 +14,3 @@ int main()
 		
 	}
 }
-*/
