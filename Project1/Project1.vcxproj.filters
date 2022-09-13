@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ekqls.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="project1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -28,6 +25,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="project4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

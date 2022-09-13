@@ -1,5 +1,5 @@
 // 04_진약수의 합
-
+/*
 
 #include<iostream>
 using namespace std;
@@ -17,3 +17,4 @@ int main()
 	}
 	cout << "=" << sum;
 }
+*/
