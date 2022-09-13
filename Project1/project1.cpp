@@ -1,5 +1,5 @@
 // 01_자음과 모음 개수 세기
-/*#include <iostream>
+#include <iostream>
 
 using namespace std;
 int main()
@@ -21,13 +21,11 @@ int main()
 			i++;
 			break;
 		default:
-			j++;
+			if (ch < 'a' || ch>'z')
+				cout << "Check to alphabet" << endl;
+			else
+				j++;
 			break;
-		}
-		if (ch < 'a' || ch>'z')
-		{
-			cout << "Check to alphabet" << endl;
-			continue;
 		}
 
 	}
@@ -35,5 +33,5 @@ int main()
 	cout << "모음: " << i << endl;
 	cout << "자음: " << j << endl;
 }
-*/
+
 
